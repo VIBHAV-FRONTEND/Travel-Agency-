@@ -1,9 +1,9 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourly)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourly?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourly?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/VIBHAV-FRONTEND/Travel-Agency)
+  ![GitHub stars](https://img.shields.io/github/stars/VIBHAV-FRONTEND/tourly?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/VIBHAV-FRONTEND/tourly?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/VIBHAV-FRONTEND_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/FYFmQEpZywc?style=social)](https://youtu.be/FYFmQEpZywc)
 
   <br />
@@ -38,13 +38,13 @@ To run **Tourly** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/tourly.git
+sudo git clone https://github.com/VIBHAV-FRONTEND/tourly.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/tourly.git
+git clone https://github.com/VIBHAV-FRONTEND/tourly.git
 ```
 
 ### Contact
@@ -53,4 +53,4 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 
 ### License
 
-This project is **free to use** and does not contains any license.
+This project is ** not free to use** and contains a license.
